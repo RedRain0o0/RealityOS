@@ -1,2 +1,2 @@
-# RealityOS
-Operating System for CC: Tweaked
+# RealityPlatform
+The OS that the RealityPlatform(RP) works on.
